@@ -44,7 +44,7 @@ A web-based system built to optimize delivery routes using both **classical algo
 - Demonstrated how quantum algorithms can scale better for larger datasets in logistics.
 - Created a solution that’s not just theoretical—it's practical, scalable, and easy to use.
 
-📂 [View GitHub Repository »]([https://github.com/your-username/Quantum-Multi-Route-Optimization](https://github.com/a0m4a0n3/Quantum-Powered-Multi-Route-Optimization.git))
+📂 [View GitHub Repository »]([https://github.com/a0m4a0n3/Quantum-Powered-Multi-Route-Optimization.git])
 
 ---
 
