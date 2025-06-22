@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Aman Gupta
 
 I am a Computer Science graduate with a strong passion for developing intelligent systems using artificial intelligence, machine learning, and backend technologies. I specialize in building scalable, real-world solutions that combine clean design with robust logic.
+
 ---
 
 ## 💼 Experience
