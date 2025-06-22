@@ -28,7 +28,7 @@ I'm a final-year Computer Science student passionate about building intelligent 
 
 ### 🚛 Quantum-Powered Multi-Route Optimization
 
-🚛 **Project Summary:**  
+**Project Summary:**  
 A web-based system built to optimize delivery routes using both **classical algorithms** (Dijkstra) and **quantum computing techniques** (QAOA). The project intelligently maps and finds the most efficient delivery path across multiple destinations.
 
 🔧 **What I Did:**
@@ -48,7 +48,7 @@ A web-based system built to optimize delivery routes using both **classical algo
 
 ---
 
-## 📫 Let's Connect
+## 📡 Reach Out
 
 - [Email](amangupta907633@gmail.com)
 
