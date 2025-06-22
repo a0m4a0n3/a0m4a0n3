@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Aman Gupta
 
-I'm a final-year Computer Science student passionate about building intelligent systems that solve real-world problems. I enjoy working on challenging tech, especially in the areas of AI, backend engineering, and optimization algorithms.
-
+I am a Computer Science graduate with a strong passion for developing intelligent systems using artificial intelligence, machine learning, and backend technologies. I specialize in building scalable, real-world solutions that combine clean design with robust logic.
 ---
 
 ## 💼 Experience
